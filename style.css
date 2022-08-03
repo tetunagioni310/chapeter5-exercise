@@ -1,0 +1,107 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+
+a {
+  text-decoration: none;
+}
+
+header {
+  border-bottom: 1px solid  #6c6b6b;
+}
+
+header .heading {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.nav-list {
+  border-bottom: 1px solid #848282;
+  text-align: center;
+}
+
+.nav-list-item {
+  display: inline-block;
+  margin: 15px 20px;
+}
+
+.main {
+  margin: 50px 0;
+}
+
+.main-table {
+  justify-content: center; /*要素の横並び・中央寄せ*/
+}
+
+.gradations {
+  width: 800px;
+  margin: 0 auto;
+  display: flex;
+}
+
+.gra {
+  width: 200px;
+  height: 200px;
+}
+
+.green1 {
+  background-color: #e6ffe9;
+}
+
+.green2 {
+  background-color: #cbffd3;
+}
+
+.green3 {
+  background-color: #aeffbd;
+}
+
+.green4 {
+  background-color: #93ffab;
+}
+
+.yellow1 {
+  background-color: #f3ffd8;
+}
+
+.yellow2 {
+  background-color: #edffbe;
+}
+
+.yellow3 {
+  background-color: #e9ffa5;
+}
+
+.yellow4 {
+  background-color: #e4ff8d;
+}
+
+.blue1 {
+  background-color: #d9e5ff;
+}
+
+.blue2 {
+  background-color: #bad3ff;
+}
+
+.blue3 {
+  background-color: #a4c6ff;
+}
+
+.blue4 {
+  background-color: #8eb8ff;
+}
+
+footer {
+  background-color: #848282;
+}
+
+.footer-text {
+  line-height: 120px;
+  text-align: center;
+  color: #fff;
+}
+
