@@ -29,69 +29,63 @@ header .heading {
 }
 
 .main {
-  margin: 50px 0;
-}
-
-.main-table {
-  justify-content: center; /*要素の横並び・中央寄せ*/
-}
-
-.gradations {
+  margin: 50px auto;
   width: 800px;
-  margin: 0 auto;
+  height:600px;
   display: flex;
+  flex-wrap: wrap;
 }
 
-.gra {
+.size {
   width: 200px;
   height: 200px;
 }
 
-.green1 {
+.box1 {
   background-color: #e6ffe9;
 }
 
-.green2 {
+.box2 {
   background-color: #cbffd3;
 }
 
-.green3 {
+.box3 {
   background-color: #aeffbd;
 }
 
-.green4 {
+.box4 {
   background-color: #93ffab;
 }
 
-.yellow1 {
+.box5 {
   background-color: #f3ffd8;
 }
 
-.yellow2 {
+.box6 {
   background-color: #edffbe;
 }
 
-.yellow3 {
+.box7 {
   background-color: #e9ffa5;
 }
 
-.yellow4 {
+.box8 {
   background-color: #e4ff8d;
 }
 
-.blue1 {
+.box9 {
   background-color: #d9e5ff;
 }
 
-.blue2 {
+.box10 {
   background-color: #bad3ff;
 }
 
-.blue3 {
+.box11 {
   background-color: #a4c6ff;
 }
 
-.blue4 {
+.box12 {
   background-color: #8eb8ff;
 }
 
